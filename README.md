@@ -2,7 +2,7 @@
 
 An interactive e-learning platform that allows users to enroll in courses, take quizzes, and receive certifications. Built using **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
 
-Developed with the help of **Abhay Singh** and **Aarush Saxena**.
+Developed with the help of [**Abhay Singh**](https://github.com/abhay-invertis) and [**Aarush Saxena**](https://github.com/aarushx10).
 
 ## 🚀 Features
 - 🏫 User roles: **Admin, Teacher, Student**
